@@ -4,6 +4,14 @@ I'am software developer, passionate about technology since I can remember, about
 
 Entusiasta del "Por qué" 😄.
 
+Hard skills:
+- Agile/Scrum
+- Object Calisthenics
+- Legacy code + Refactor
+- Classic TDD
+- Outside-In TDD (London school of TDD)
+- Object Oriented Design: SOLID, code smells, simple design, design patterns.
+
 <!--
 **adria-arquimbau/adria-arquimbau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
