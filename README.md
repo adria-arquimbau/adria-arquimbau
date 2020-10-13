@@ -4,7 +4,6 @@ I'am software developer, passionate about technology since I can remember, about
 
 Entusiasta del "Por qué" 😄.
 
-Hard skills:
 - Agile/Scrum
 - Object Calisthenics
 - Legacy code + Refactor
