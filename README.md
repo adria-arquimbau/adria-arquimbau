@@ -4,6 +4,8 @@ I'am software developer, passionate about technology since I can remember, about
 
 Entusiasta del "Por qué" 😄.
 
+- 🔭 I’m currently working on VoxelGroup as a .NetCore BackEnd Developer
+
 - Agile/Scrum
 - Object Calisthenics
 - Legacy code + Refactor
@@ -16,7 +18,7 @@ Entusiasta del "Por qué" 😄.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
