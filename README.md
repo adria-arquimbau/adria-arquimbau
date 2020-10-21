@@ -4,7 +4,7 @@ I'am software developer, passionate about technology since I can remember, about
 
 Entusiasta del "Por qué" 😄.
 
-- 🔭 I’m currently working on VoxelGroup as a .NetCore BackEnd Developer
+- 💻 I’m currently working on VoxelGroup as a .NetCore BackEnd Developer
 
 - Agile/Scrum
 - Object Calisthenics
