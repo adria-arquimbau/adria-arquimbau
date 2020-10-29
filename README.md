@@ -11,6 +11,7 @@ Entusiasta del "Por qué" 😄.
 - Legacy code + Refactor
 - Classic TDD
 - Outside-In TDD (London school of TDD)
+- DDD
 - Object Oriented Design: SOLID, code smells, simple design, design patterns.
 
 <!--
