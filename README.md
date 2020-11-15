@@ -14,6 +14,7 @@ Entusiasta del "Por qué" 😄.
 - DDD
 - Object Oriented Design: SOLID, code smells, simple design, design patterns.
 
+
 - 📫 How to reach me: adria.arquimbau@gmail.com
 
 <!--
