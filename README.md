@@ -3,8 +3,8 @@
 I'am software developer, passionate about technology since I can remember, about both software and hardware. Seeking the knowledge and improvement day to day in any project and new professional challenge.
 Entusiasta del "Por qué" 😄.
 
-- 💻 I’m currently working on VoxelGroup as a .NetCore BackEnd Developer
 
+- 💻 I’m currently working on VoxelGroup as a .NetCore BackEnd Developer
 - Agile/Scrum
 - Object Calisthenics
 - Legacy code + Refactor
