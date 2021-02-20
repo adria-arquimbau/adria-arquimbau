@@ -1,5 +1,4 @@
 ### Hi there 👋 😄
-
 I'm Adrià and this is my Readme ⚡
 
 I'am software developer, passionate about technology since I can remember, about both software and hardware. Seeking the knowledge and improvement day to day in any project and new professional challenge.
