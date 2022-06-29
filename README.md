@@ -1,20 +1,21 @@
 ### Hi there 👋 😄 
 
-I'm Adrià and this is my Readme ⚡  
+I'm Adrià and this is my Readme ⚡ 
 
 I'am software developer, passionate about technology since I can remember, about both software and hardware. Seeking the knowledge and improvement day to day in any project and new professional challenge.
 Entusiasta del "Por qué" 😄.
 
-- 💻 I’m currently working as a .NetCore BackEnd Developer
+- 💻 I’m currently working as a .NetCore BackEnd Engineer at Palfinger
 - Agile/Scrum
 - Object Calisthenics
 - Legacy code + Refactor
 - Classic TDD
 - Outside-In TDD (London school of TDD)
 - DDD
+- CQRS
 - Object Oriented Design: SOLID, code smells, simple design, design patterns.
 
-- 📫 How to reach me: adria.arquimbau@gmail.com
+- 📫 How to reach me: adria.arquimbau@gmail.com / https://www.arquimbau.dev/
 
 <!--
 **adria-arquimbau/adria-arquimbau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
