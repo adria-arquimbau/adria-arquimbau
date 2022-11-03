@@ -13,9 +13,10 @@ Entusiasta del "Por qué" 😄.
 - Outside-In TDD (London school of TDD)
 - DDD
 - CQRS
+- Event Driven Architecture
 - Object Oriented Design: SOLID, code smells, simple design, design patterns.
 
-- 📫 How to reach me: adria.arquimbau@gmail.com / https://www.arquimbau.dev/
+- 📫 How to reach me: adria.arquimbau@gmail.com
 
 <!--
 **adria-arquimbau/adria-arquimbau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
