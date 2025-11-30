@@ -1,31 +1,25 @@
-### Hi there 👋 😄 
+# Hi, I'm Adrià 👋
 
-I'm Adrià and this is my Readme ⚡ 
+Backend Engineer building event-driven systems with .NET and Azure. Based in Austria 🇦🇹
 
-I'am software developer, passionate about technology since I can remember, about both software and hardware. Seeking the knowledge and improvement day to day in any project and new professional challenge.
-Entusiasta del "Por qué" 😄.
+## What I Do
 
-- 💻 I’m currently working as a .NetCore BackEnd Engineer at Palfinger
-- Agile/Scrum
-- Object Calisthenics
-- Legacy code + Refactor
-- Classic TDD
-- Outside-In TDD (London school of TDD)
-- DDD
-- CQRS
-- Event Driven Architecture
-- Object Oriented Design: SOLID, code smells, simple design, design patterns.
+**@ Palfinger** - Senior Backend Engineer  
+Building microservices that handle 100K+ daily events. Replaced legacy SAP with modern event-driven architecture.
 
-- 📫 How to reach me: adria.arquimbau@gmail.com
+**@ SERVE** - Founder  
+Running a SaaS platform for sports competitions with 1,000+ users across 3 countries. Built with .NET 8, Angular, and PostgreSQL.
 
-<!--
-**adria-arquimbau/adria-arquimbau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...a
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
--->
+## Tech Stack
+
+**.NET** | **PostgreSQL** | **Azure** | **Docker** | **Microservices** | **REST APIs** | **TDD**
+
+## Recent Focus
+
+- Event-driven architectures at scale
+- Real-time systems with SignalR
+- API-first platform development
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/adria-arquimbau) | [Blog](https://medium.com/@adria-arquimbau) | [Email](mailto:adria.arquimbau@gmail.com)
